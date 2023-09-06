@@ -1,5 +1,5 @@
 # Matrix based calculator
-This is my final project for Programming Basics in the first semester of university. 
+This is my final project for Programming Fundamentals in the first semester of university. 
 ## Description
 In this project, we will create a matrix-based calculator capable of performing the four main matrix operations: addition, multiplication, division, and subtraction. Additionally, the calculator can calculate the determinant of a matrix. The size of the matrix will not exceed 100 numbers. The program will include two variables, A and B, and the user can execute various calculation tasks using specific commands.
 
